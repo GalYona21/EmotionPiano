@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Emotion Trainer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="instructions_String">Instructions</string>
+    <string name="resume_string">Resume</string>
+    <string name="pause_string">Pause</string>
+    <string name="end_game_string">End Game</string>
+    <string name="restart_btn_string">Restart</string>
+    <string name="mute_background_music_btn_string">Mute background music</string>
+    <string name="unmute_background_music_btn_string">UnMute background music</string>
+    <string name="mute_sounds_btn_string">Mute sounds</string>
+    <string name="unmute_sounds_btn_string">UnMute sounds</string>
+    <string name="exit_btn_string">Exit</string>
+    <string name="help_btn_string">Help</string>
+    <string name="leaderboard_id">leaderboard_id</string>
+    <string name="leaderboards_string">Leaderboards</string>
+    <string name="server_client_id">809971693434-7f27me7pv6b7lgmddnhu6e1d5jo6hhs5.apps.googleusercontent.com</string>
+
+</resources>

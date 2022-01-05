@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809971693434",
+    "project_id": "pianoemotion-a709a",
+    "storage_bucket": "pianoemotion-a709a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809971693434:android:8b48f65e296f8fe1b2c8c3",
+        "android_client_info": {
+          "package_name": "gal.yonastudios.emotiontrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809971693434-ndefljh9fvrsi06pet2e1lvvgt1ogkm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsPNU6t_rb46SQzWNWLj0UIg-h8t12JFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809971693434-ndefljh9fvrsi06pet2e1lvvgt1ogkm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

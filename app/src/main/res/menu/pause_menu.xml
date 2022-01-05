@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/help_btn"
+    android:title="@string/help_btn_string"
+android:icon="@drawable/question_mark_image"
+    app:showAsAction="ifRoom"
+    ></item>
+    <item android:id="@+id/leaderboards_btn"
+        android:title="@string/leaderboards_string"
+        android:icon="@drawable/leaderboardsicon"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/resume_btn"
+    android:title="@string/resume_string"
+    app:showAsAction="collapseActionView"/>
+    <item android:id="@+id/end_game_btn"
+        android:title="@string/end_game_string"
+        app:showAsAction="collapseActionView"/>
+    <item android:id="@+id/restart_btn"
+        android:title="@string/restart_btn_string"
+        app:showAsAction="collapseActionView"/>
+
+    <item android:id="@+id/mute_un_mute_background_music_btn"
+        android:title="@string/mute_background_music_btn_string"
+        app:showAsAction="collapseActionView"/>
+    <item android:id="@+id/mute_un_mute_sound_btn"
+        android:title="@string/mute_sounds_btn_string"
+        app:showAsAction="collapseActionView"/>
+    <item android:id="@+id/exit_btn"
+        android:title="@string/exit_btn_string"
+        app:showAsAction="collapseActionView"/>
+</menu>

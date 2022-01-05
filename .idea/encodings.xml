@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/apianolowchordamajor.wav" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/drdrepiano.wav" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/gentlepianochordcminor.wav" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/holidayukulele.mp3" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/ontherhodesdminor.wav" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/riseandshine.mp3" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/synthcut034eminor.wav" charset="ISO-8859-1" />
+  </component>
+</project>

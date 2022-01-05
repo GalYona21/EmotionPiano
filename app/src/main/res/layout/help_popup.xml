@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="gal.yonastudios.emotiontrainer.HelpFragment"
+    android:id="@+id/help_popup"
+    android:background="@color/azure"
+    android:orientation="vertical"
+    >
+
+
+            <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/instructions_String"
+        android:textSize="@android:dimen/app_icon_size"
+        android:textColor="@color/white"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="To play this app, just push the play button and \n
+do the face expression that written on the screen.\n
+\n
+You got 30 seconds to do as much expressions as you can!\n
+\n
+If you get stuck on a certain emotion, you can click on it to skip it, but BEWARE!\n
+you get a penalty for -1 point each time you skip emotion expression."
+        android:textColor="@color/white"
+        />
+</LinearLayout>

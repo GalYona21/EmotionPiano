@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:weightSum="4"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    >
+    <Button
+        android:id="@+id/b_pause"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Pause"
+        android:textSize="12dp"
+        ></Button>
+    <TextView
+        android:id="@+id/tv_time"
+        android:text="Time:"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_weight="1"
+        ></TextView>
+
+    <TextView
+        android:id="@+id/tv_score"
+        android:text="Score:"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        ></TextView>
+    <TextView
+    android:id="@+id/tv_best"
+    android:text="Best:"
+    android:textStyle="bold"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+
+        ></TextView>
+
+</LinearLayout>

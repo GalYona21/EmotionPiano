@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="gal.yonastudios.emotiontrainer">
+
+    <uses-permission android:name="android.permission.CAMERA"></uses-permission>
+    <uses-feature android:name="android.hardware.camera.any"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/emotiontrainer_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/emotiontrainer_icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EmotionPiano">
+        <activity
+            android:name="gal.yonastudios.emotiontrainer.MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            >
+            <meta-data
+                android:name="com.google.firebase:firebase-ml-vision.DEPENDENCIES"
+                android:value="face">
+            </meta-data>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-7650736180602884~1389130020"/>
+    </application>
+
+</manifest>

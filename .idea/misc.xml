@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProjectPianoEmotion/PianoEmotion12_10_21/ProjectPianoEmotion9_10_21/ProjectPianoEmotionApp/app/src/main/res/drawable/gradient_color.xml" value="0.2" />
+        <entry key="..\:/ProjectPianoEmotion/PianoEmotion12_10_21/ProjectPianoEmotion9_10_21/ProjectPianoEmotionApp/app/src/main/res/layout/activity_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/ProjectPianoEmotion/PianoEmotion12_10_21/ProjectPianoEmotion9_10_21/ProjectPianoEmotionApp/app/src/main/res/layout/grid.xml" value="0.12158054711246201" />
+        <entry key="..\:/ProjectPianoEmotion/PianoEmotion12_10_21/ProjectPianoEmotion9_10_21/ProjectPianoEmotionApp/app/src/main/res/menu/pause_menu.xml" value="0.19722222222222222" />
+        <entry key="..\:/ProjectPianoEmotion/PianoEmotion12_10_21/ProjectPianoEmotion9_10_21/ProjectPianoEmotionApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/ProjectPianoEmotion/PianoEmotion12_10_21/ProjectPianoEmotion9_10_21/ProjectPianoEmotionApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/ProjectPianoEmotion/ProjectPianoEmotionApp/app/src/main/res/drawable/gradient_color.xml" value="0.1" />
+        <entry key="..\:/ProjectPianoEmotion/ProjectPianoEmotionApp/app/src/main/res/layout/activity_main.xml" value="0.21014492753623187" />
+        <entry key="..\:/ProjectPianoEmotion/ProjectPianoEmotionApp/app/src/main/res/layout/bottom_bar.xml" value="0.24270833333333333" />
+        <entry key="..\:/ProjectPianoEmotion/ProjectPianoEmotionApp/app/src/main/res/layout/camera_view.xml" value="0.1" />
+        <entry key="..\:/ProjectPianoEmotion/ProjectPianoEmotionApp/app/src/main/res/layout/fragment_game_squares.xml" value="0.4" />
+        <entry key="..\:/ProjectPianoEmotion/ProjectPianoEmotionApp/app/src/main/res/layout/fragment_help.xml" value="0.11200000000000002" />
+        <entry key="..\:/ProjectPianoEmotion/ProjectPianoEmotionApp/app/src/main/res/layout/grid.xml" value="0.264" />
+        <entry key="..\:/ProjectPianoEmotion/ProjectPianoEmotionApp/app/src/main/res/layout/top_bar.xml" value="0.13020833333333334" />
+        <entry key="..\:/ProjectPianoEmotion/ProjectPianoEmotionApp/app/src/main/res/menu/pause_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjectPianoEmotion/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/ProjectPianoEmotion/app/src/main/res/drawable/emptyimage.xml" value="0.2703125" />
+        <entry key="..\:/ProjectPianoEmotion/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/ProjectPianoEmotion/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/ProjectPianoEmotion/app/src/main/res/layout/bottom_bar.xml" value="0.1793478260869565" />
+        <entry key="..\:/ProjectPianoEmotion/app/src/main/res/layout/grid.xml" value="0.1793478260869565" />
+        <entry key="..\:/ProjectPianoEmotion/app/src/main/res/layout/top_bar.xml" value="0.264" />
+        <entry key="..\:/ProjectPianoEmotion/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/ProjectPianoEmotion/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+        <entry key="..\:/Users/galyo/Documents/Projects/PianoEmotion23_10_21/PianoEmotion12_10_21/ProjectPianoEmotion9_10_21/ProjectPianoEmotionApp/app/src/main/res/layout/activity_main.xml" value="0.3671875" />
+        <entry key="..\:/Users/galyo/Documents/Projects/PianoEmotion23_10_21/PianoEmotion12_10_21/ProjectPianoEmotion9_10_21/ProjectPianoEmotionApp/app/src/main/res/layout/grid.xml" value="0.2694746376811594" />
+        <entry key="..\:/Users/galyo/Documents/Projects/PianoEmotion23_10_21/PianoEmotion12_10_21/ProjectPianoEmotion9_10_21/ProjectPianoEmotionApp/app/src/main/res/layout/help_popup.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/galyo/Documents/Projects/PianoEmotion23_10_21/PianoEmotion12_10_21/ProjectPianoEmotion9_10_21/ProjectPianoEmotionApp/app/src/main/res/layout/top_bar.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/galyo/Documents/Projects/PianoEmotion23_10_21/PianoEmotion12_10_21/ProjectPianoEmotion9_10_21/ProjectPianoEmotionApp/app/src/main/res/menu/pause_menu.xml" value="0.2640625" />
+        <entry key="..\:/Users/galyo/Documents/Projects/ProjectPianoEmotion9_10_21/ProjectPianoEmotionApp/app/src/main/res/layout/activity_main.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/galyo/Documents/Projects/ProjectPianoEmotion9_10_21/ProjectPianoEmotionApp/app/src/main/res/layout/fragment_help.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/galyo/Documents/Projects/ProjectPianoEmotion9_10_21/ProjectPianoEmotionApp/app/src/main/res/layout/grid.xml" value="0.20572916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

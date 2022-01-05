@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    tools:context="gal.yonastudios.emotiontrainer.MainActivity"
+    android:background="@drawable/gradient_color"
+    android:id="@+id/activity_main">
+
+
+    <androidx.camera.view.PreviewView
+        android:id="@+id/campre"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/include3"
+        android:layout_above="@id/include2"
+        >
+
+    </androidx.camera.view.PreviewView>
+
+    <gal.yonastudios.emotiontrainer.GraphicOverlay
+        android:id="@+id/graphic_overlay"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/include2"
+        android:layout_below="@id/include3"></gal.yonastudios.emotiontrainer.GraphicOverlay>
+
+
+
+    <include
+        android:id="@+id/include1"
+        layout="@layout/top_bar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"></include>
+
+    <include
+        android:id="@+id/include2"
+        layout="@layout/bottom_bar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"></include>
+
+    <include
+        android:id="@+id/include3"
+        layout="@layout/grid"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_below="@+id/include1"
+        android:layout_marginTop="5dp">
+
+    </include>
+
+    <TextView
+        android:id="@+id/emotion_predict_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/campre"
+        android:layout_centerHorizontal="true"></TextView>
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/sign_in_button"
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:layout_below="@+id/include2"
+        android:layout_marginTop="673dp"
+        android:layout_marginBottom="-668dp"
+        android:visibility="visible" />
+
+
+</RelativeLayout>
